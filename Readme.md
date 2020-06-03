@@ -7,3 +7,7 @@
    If i want to build extra features into it. \
 
    /// IDea of waht I want to build on this project
+
+   //Car Racing app... BlockChain car racers.... 
+    heads shot... Car reacing in the background.
+    //keep the house that horse that is on page
