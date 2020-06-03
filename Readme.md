@@ -25,3 +25,9 @@
   FOOTER
    add Connections to LinkedIn.
    BlogPosts Tecture. And Spanish Blog.
+
+
+   Purpose of the project.... 
+   . Show employers what I can create with my hands.. 
+    . Build a website from sctrach and organzie it..
+    . Let people know that I wouls win.
