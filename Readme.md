@@ -1,33 +1,25 @@
- This Will out line the Knight Project. 
 
- Remove all BootStraps indicators. 
+**Project Title**
+ ***KnightProject***
 
-  // Build the whole page in SPANISH.  .... 
+**Motivation**
+ Website Designed to showCase the Knight Brand as Well as what there bring to the market.   Page covers services offered, Prices,Testimonals, and companies there have worked with. 
 
+![](https://media.giphy.com/media/YQMh5vtGdungUT6Fde/giphy.gif)
 
- What Features do I want to add to this Company
-  User focused.  Of course we will switch out this sites and See what else i improve on the site. 
-   If i want to build extra features into it. \
+**Commiting to Git hub**
 
-   /// IDea of waht I want to build on this project
+ *If your feeling creative and want to add something Sweet to the app?*
 
-   //Car Racing app... BlockChain car racers.... 
-    heads shot... Car reacing in the background.
-    //keep the house that horse that is on page
+[ ]Open the terminal.
+[ ]Change the current working directory to your local repository to where you want to clone the app.
 
-    // Different Pitures for each sections.. 
-    // A live video on thepafe as well. 
-     Update contacts and pictures.  With real testimoys  
+[ ] Clonet the app from Github, onces your done.
 
- Frequently asske quesiton.  
+[ ] Make sure to create a branch in the process.
 
+[ ]Commit the file that you've staged in your local repository.
 
-  FOOTER
-   add Connections to LinkedIn.
-   BlogPosts Tecture. And Spanish Blog.
+[ ] $ git commit -m "Add existing file" Push the changes in your local repository to GitHub.
 
-
-   Purpose of the project.... 
-   . Show employers what I can create with my hands.. 
-    . Build a website from sctrach and organzie it..
-    . Let people know that I wouls win.
+[ ]$ git push origin branch-name.
